@@ -1,7 +1,0 @@
-{
-    "scripts": {
-        "start": {
-            "cmd": "deno run --allow-read --allow-write --allow-net server.tsx"
-        }
-    }
-}
